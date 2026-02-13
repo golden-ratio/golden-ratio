@@ -24,7 +24,7 @@ I build end-to-end machine learning systems that drive real business outcomes—
 Co-founder of Kyrgyzstan's national open-source AI initiative. Built the country's first LLM chatbot, created the first Kyrgyz language benchmark, and released the largest Kyrgyz text corpus (300M+ words). Organized 50+ AI meetups and 3 DataThons with 250+ participants.
 
 ### 🎯 [KyrgyzLLM-Bench](https://github.com/golden-ratio/kyrgyzLLM_bench)
-First standardized benchmark for evaluating LLMs in the Kyrgyz language. Contributed Kyrgyz language support to [Hugging Face LightEval]([https://github.com/username/repo](https://github.com/huggingface/lighteval)). Essential infrastructure for low-resource NLP research.
+First standardized benchmark for evaluating LLMs in the Kyrgyz language. Contributed Kyrgyz language support to [Hugging Face LightEval](https://github.com/huggingface/lighteval). Essential infrastructure for low-resource NLP research.
 
 ### 💤 CorePod (Stealth)
 Architected privacy-first, fully on-device LLM and voice AI stack for real-time conversational sleep companion. Combined CBT-I sleep science with contextual ML, deployed to 100+ beta users with measurable improvements in sleep quality.
@@ -43,7 +43,7 @@ Architected privacy-first, fully on-device LLM and voice AI stack for real-time 
 
 ## Connect
 
-📧 [Email](mailto:timur.turat@gmail.com) | 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/turatali/)) | 🤗 [Hugging Face]([https://huggingface.co/your-profile](https://huggingface.co/TTimur))
+📧 [Email](mailto:timur.turat@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/turatali/) | 🤗 [Hugging Face](https://huggingface.co/TTimur)
 
 ---
 
